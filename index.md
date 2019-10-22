@@ -1,3 +1,4 @@
+[How to Schedule an Appointment for a Client](https://hicketay.github.io/How-to-Schedule-an-Appointment-for-a-Client/) • [Home](https://hicketay.github.io/Maxient-Help/)
 # How to Notify a Client of Appointment Approval 
 
 Any potential client looking to use Student Legal Services has to start by filling out an intake form on the Student Legal Service’s website. Leslie Charters, the primary attorney, reviews the incident report and determines which of the three letter templates the client will receive:
