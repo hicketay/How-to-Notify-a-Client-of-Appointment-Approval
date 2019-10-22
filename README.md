@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+---
+title: How to Notify a Client of Appointment Approval 
+layout: page
+filename: HowtoNotifyaClientofAppointmentApproval.md 
+--- 
+# How to Notify a Client of Appointment Approval 
 
-You can use the [editor on GitHub](https://github.com/hicketay/How-to-Notify-a-Client-of-Appointment-Approval/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Any potential client looking to use Student Legal Services has to start by filling out an intake form on the Student Legal Service’s website. Leslie Charters, the primary attorney, reviews the incident report and determines which of the three letter templates the client will receive:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Letter Template      | Definition | Action |
+| ----------- | ----------- | ----------- |
+| Conflict      | The client’s issue presents a conflict of interest for SLS.       | Can NOT make an appointment. | 
+| Non-service   | The issue is beyond the scope of services offered at SLS.        | Can NOT make an appointment. |
+| Appointment | The client’s issue falls within the range of services offered at SLS. | Can make an appointment. | 
 
-### Markdown
+This letter will notify the client if they can continue with Student Legal Services, or not. In order to send this letter, you must first create a case file for the client in Maxient.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow the workflow below to create the client’s case file and send their notification letter. For a better understanding, please read the Key before beginning.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hicketay/How-to-Notify-a-Client-of-Appointment-Approval/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://maxienthelp.files.wordpress.com/2019/10/doc-sfd-515-hickey-20.jpg)
