@@ -1,9 +1,4 @@
----
-title: How to Notify a Client of Appointment Approval 
-layout: page
-filename: HowtoNotifyaClientofAppointmentApproval.md 
---- 
-# How to Notify a Client of Appointment Approval 
+ # How to Notify a Client of Appointment Approval 
 
 Any potential client looking to use Student Legal Services has to start by filling out an intake form on the Student Legal Service’s website. Leslie Charters, the primary attorney, reviews the incident report and determines which of the three letter templates the client will receive:
 
