@@ -11,6 +11,6 @@ Any potential client looking to use Student Legal Services has to start by filli
 
 This letter will notify the client if they can continue with Student Legal Services, or not. In order to send this letter, you must first create a case file for the client in Maxient.
 
-Follow the workflow below to create the client’s case file and send their notification letter. For a better understanding, please read the Key before beginning.
+Click on the link below to access the task workflow. Follow the steps to create the client’s case file and send their notification letter. For a better understanding, please click on, and read, each NOTE you see. 
 
-<iframe width="760px" height="500px" src="https://sway.office.com/s/x5ySkKx3MudBKwoE/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+[How to Notify a Client of Appointment Approval Workflow](https://sway.office.com/x5ySkKx3MudBKwoE?ref=Link) 
