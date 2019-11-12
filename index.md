@@ -13,4 +13,4 @@ This letter will notify the client if they can continue with Student Legal Servi
 
 Follow the workflow below to create the client’s case file and send their notification letter. For a better understanding, please read the Key before beginning.
 
-![](https://maxienthelp.files.wordpress.com/2019/10/doc-sfd-515-hickey-20.jpg)
+<iframe width="760px" height="500px" src="https://sway.office.com/s/x5ySkKx3MudBKwoE/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
