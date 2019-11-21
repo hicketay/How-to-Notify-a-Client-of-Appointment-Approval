@@ -13,4 +13,4 @@ This letter will notify the client if they can continue with Student Legal Servi
 
 Click on the link below to access the task workflow. Follow the steps to create the client’s case file and send their notification letter. For a better understanding, please click on, and read, each NOTE you see. 
 
-[How to Notify a Client of Appointment Approval Workflow](https://sway.office.com/x5ySkKx3MudBKwoE?ref=Link) 
+[How to Notify a Client of Appointment Approval Workflow](https://sway.office.com/xtVkUqDGV2Jd5WH0?ref=Link) 
